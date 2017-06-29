@@ -1,6 +1,6 @@
-# projeto-2017-1-datascienceteam
+# Introdução à Ciência dos Dados
 
-### pull-push test. branch dev modf. -> merge to -> master
+## Projeto Final
 
-Relevante (podcast da Mozilla sobre Data Businesses):
-https://irlpodcast.org/
+
+
