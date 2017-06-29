@@ -2,8 +2,9 @@
 
 ## Projeto Final
 
-Artur da Nova Franco - anf@cin.ufpe.br
-Lucas Glasner Regis - lgr3@cin.ufpe.br
+Artur da Nova Franco - anf {em} cin.ufpe.br
+
+Lucas Glasner Regis - lgr3 {em} cin.ufpe.br
 
 
 
